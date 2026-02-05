@@ -1,0 +1,1 @@
+This repo contains my submission to [Sebastian Lague's 2023 Chess programming competition](https://youtu.be/iScy18pVR58).
